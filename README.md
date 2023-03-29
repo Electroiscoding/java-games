@@ -5,7 +5,7 @@ written java games. No visual representation. Sorry
 I prescribe BlueJ to run the programs. 
 
 #Instructions
-Copy the code from the java file. Then paste to BlueJ's codebase
+Copy the code from the java file. Then paste to BlueJ's codebase (except the gitinore)
 
 Download: https://www.bluej.org/
 
